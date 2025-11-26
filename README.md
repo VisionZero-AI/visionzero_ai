@@ -1,4 +1,9 @@
 # 🌐 VisionZero AI  
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)]()
+[![License](https://img.shields.io/badge/license-proprietary-red.svg)]()
+[![Maintainer](https://img.shields.io/badge/maintainer-Anuar%20Aubakirov-lightgrey.svg)]()
+[![SmartCity AI](https://img.shields.io/badge/project-VisionZero%20AI-4db6ac.svg)]()
 **Predictive Crash-Risk Mapping & Road Safety Intelligence**  
 Built by **Anuar Aubakirov** — Founder of VisionZero AI & SmartCity AI  
 
